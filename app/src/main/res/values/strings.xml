@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ShoppingListTestingYT</string>
+    <string name="search_for_images">Search for images...</string>
 </resources>
